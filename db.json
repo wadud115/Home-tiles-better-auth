@@ -1,0 +1,127 @@
+{
+    "product":[
+    
+{
+    "id": "tile_001",
+    "title": "Ceramic Blue Tile",
+    "description": "This premium ceramic blue tile is designed to add elegance and durability to modern interiors. The glossy blue finish reflects light beautifully and creates a bright atmosphere. It is manufactured using high-quality ceramic materials for long-lasting performance. The tile is resistant to moisture, making it ideal for kitchens and bathrooms. Its smooth surface allows for easy cleaning and maintenance. The rich blue color complements both contemporary and traditional designs. It can be used on walls and floors in residential spaces. The precise cut edges ensure a seamless installation process. It is resistant to stains and everyday wear. Suitable for homes, offices, and commercial projects. The finish retains its beauty over time. A stylish choice for any renovation project.",
+    "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6",
+    "category": "ceramic",
+    "price": 45.99,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Ceramic",
+    "inStock": true
+  },
+  {
+    "id": "tile_002",
+    "title": "Marble White Tile",
+    "description": "This marble-inspired white tile brings a luxurious appearance to any room. The elegant veining pattern closely resembles natural marble. It creates a clean and spacious feeling in both small and large areas. The polished finish enhances brightness by reflecting natural light. It is highly durable and resistant to scratches. Perfect for living rooms, hallways, and upscale interiors. The surface is easy to clean and maintain daily. Manufactured using advanced technology for consistent quality. Suitable for residential and commercial applications. The timeless design never goes out of style. It pairs well with modern furniture and décor. A premium solution for sophisticated spaces.",
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c",
+    "category": "marble",
+    "price": 59.99,
+    "currency": "USD",
+    "dimensions": "80x80 cm",
+    "material": "Marble",
+    "inStock": true
+  },
+  {
+    "id": "tile_003",
+    "title": "Wooden Brown Tile",
+    "description": "This wood-look tile combines the beauty of natural wood with the durability of porcelain. The realistic grain texture provides a warm and welcoming appearance. It is ideal for living rooms, bedrooms, and office spaces. Unlike real wood, it is resistant to moisture and termites. The surface is durable enough for high-traffic areas. Easy maintenance makes it a practical flooring choice. The brown tones create a cozy and natural environment. It complements rustic, modern, and Scandinavian interiors. Installation is straightforward with precise dimensions. The finish resists fading over time. Suitable for both residential and commercial projects. An excellent alternative to hardwood flooring.",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
+    "category": "wooden",
+    "price": 39.99,
+    "currency": "USD",
+    "dimensions": "120x20 cm",
+    "material": "Porcelain",
+    "inStock": true
+  },
+  {
+    "id": "tile_004",
+    "title": "Glossy Black Tile",
+    "description": "This glossy black tile delivers a bold and luxurious statement. The reflective surface creates depth and visual interest. It works exceptionally well in modern and minimalist interiors. Manufactured from durable ceramic material for long-term use. The tile is resistant to stains and moisture. Its polished finish is easy to clean with regular maintenance. Ideal for bathrooms, kitchens, and feature walls. The rich black color adds sophistication to any setting. It pairs beautifully with metallic fixtures and lighting. Suitable for residential and commercial projects. The smooth edges provide a professional installation finish. A premium option for contemporary spaces.",
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858",
+    "category": "ceramic",
+    "price": 49.99,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Ceramic",
+    "inStock": false
+  },
+  {
+    "id": "tile_005",
+    "title": "Stone Grey Tile",
+    "description": "This stone-inspired grey tile offers a natural and elegant appearance. The matte finish provides a modern and sophisticated look. It is designed to replicate the texture of real stone while remaining easy to maintain. Suitable for indoor and outdoor applications. The durable construction withstands daily wear and tear. Grey tones complement a wide range of interior styles. Ideal for living rooms, patios, and office environments. Resistant to moisture and stains for practical use. The non-reflective finish reduces glare. It can be used for both floors and walls. Precision manufacturing ensures consistent quality. A timeless addition to modern architecture.",
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156",
+    "category": "stone",
+    "price": 42.50,
+    "currency": "USD",
+    "dimensions": "75x75 cm",
+    "material": "Stone",
+    "inStock": true
+  },
+  {
+    "id": "tile_006",
+    "title": "Mosaic Pattern Tile",
+    "description": "This decorative mosaic tile features intricate patterns and vibrant details. It is designed to create stunning focal points in kitchens and bathrooms. The artistic design enhances visual appeal instantly. Manufactured with durable materials for long-lasting beauty. The surface resists moisture and stains effectively. Ideal for backsplashes, shower walls, and decorative accents. Easy to clean and maintain with minimal effort. The compact tile format allows creative installation patterns. It complements modern and traditional interiors alike. Suitable for residential and commercial use. Adds texture and character to any wall surface. A perfect blend of functionality and artistic design.",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f",
+    "category": "mosaic",
+    "price": 65.00,
+    "currency": "USD",
+    "dimensions": "30x30 cm",
+    "material": "Glass",
+    "inStock": true
+  },
+  {
+    "id": "tile_007",
+    "title": "Terracotta Rustic Tile",
+    "description": "This terracotta tile offers a warm and rustic charm inspired by traditional architecture. The earthy color tones create a cozy atmosphere. It is ideal for country-style homes and outdoor spaces. The textured surface adds authenticity and character. Durable construction ensures reliable performance over time. Resistant to everyday wear and weather conditions. Suitable for patios, courtyards, and interior floors. Easy maintenance keeps it looking beautiful for years. The natural finish blends seamlessly with wood and stone elements. Its timeless appearance never loses appeal. Manufactured with high-quality terracotta material. A classic flooring choice for rustic environments.",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
+    "category": "terracotta",
+    "price": 35.75,
+    "currency": "USD",
+    "dimensions": "40x40 cm",
+    "material": "Terracotta",
+    "inStock": true
+  },
+  {
+    "id": "tile_008",
+    "title": "Concrete Finish Tile",
+    "description": "This concrete-look tile is inspired by industrial interior design trends. The subtle texture creates a modern urban aesthetic. Ideal for loft apartments and contemporary spaces. Made from durable porcelain material for maximum performance. Resistant to moisture, scratches, and stains. Easy to maintain compared to real concrete surfaces. Suitable for walls and flooring applications. The neutral grey tone works well with many color schemes. It adds a minimalist and sophisticated touch to interiors. Consistent manufacturing ensures uniform appearance. Perfect for commercial and residential projects. A practical solution for modern architecture.",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
+    "category": "concrete",
+    "price": 47.25,
+    "currency": "USD",
+    "dimensions": "60x120 cm",
+    "material": "Porcelain",
+    "inStock": false
+  },
+  {
+    "id": "tile_009",
+    "title": "Golden Pattern Tile",
+    "description": "This decorative tile features elegant golden patterns for a luxurious appearance. The intricate design adds sophistication to any room. Ideal for feature walls and premium interior projects. Manufactured using high-quality ceramic material. The surface is resistant to fading and daily wear. Easy cleaning helps maintain its beautiful finish. Suitable for living rooms, hotels, and upscale commercial spaces. The gold accents create a sense of luxury and refinement. It pairs well with modern and classic furniture. Precision detailing ensures a premium look. Designed for long-lasting visual appeal. An excellent choice for elegant interiors.",
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858",
+    "category": "decorative",
+    "price": 72.99,
+    "currency": "USD",
+    "dimensions": "50x50 cm",
+    "material": "Ceramic",
+    "inStock": true
+  },
+  {
+    "id": "tile_010",
+    "title": "Outdoor Anti-Slip Tile",
+    "description": "This outdoor tile is engineered with an anti-slip surface for safety. It performs exceptionally well in wet environments. Ideal for patios, pool areas, and walkways. The durable porcelain construction withstands harsh weather conditions. Resistant to moisture, UV exposure, and stains. The textured finish improves grip and reduces slipping risks. Easy to maintain with regular cleaning. Designed for both residential and commercial outdoor projects. The modern appearance complements various landscape designs. Long-lasting performance ensures excellent value. Precision manufacturing guarantees consistent quality. A reliable solution for outdoor flooring applications.",
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156",
+    "category": "outdoor",
+    "price": 54.99,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Porcelain",
+    "inStock": true
+  }
+
+
+    ]
+}

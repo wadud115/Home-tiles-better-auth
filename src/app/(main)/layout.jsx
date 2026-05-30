@@ -7,8 +7,10 @@ const layout = ({ children }) => {
     return (
         <div>
             <Navber></Navber>
-            <Footer></Footer>
+           
             { children }
+            <Footer></Footer>
+            
             
         </div>
     );
