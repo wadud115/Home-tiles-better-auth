@@ -120,7 +120,129 @@
     "dimensions": "60x60 cm",
     "material": "Porcelain",
     "inStock": true
+  },
+  
+  {
+    "id": "tile_011",
+    "title": "Beige Floor Tile",
+    "description": "This elegant beige floor tile is designed to create a warm and welcoming atmosphere in any room. The neutral color blends easily with a wide variety of furniture and décor styles. It is manufactured using high-quality ceramic materials to ensure durability and long-lasting performance. The smooth surface makes cleaning and maintenance effortless. Its subtle texture adds character without overwhelming the design. Suitable for living rooms, bedrooms, and hallways. The tile is resistant to stains and moisture, making it practical for everyday use. Precision-cut edges allow seamless installation and a professional finish. The timeless design remains attractive for years. It is ideal for both residential and commercial applications. The durable construction withstands daily foot traffic. A versatile flooring solution for modern interiors.",
+    "image": "https://picsum.photos/seed/tile011/600/400",
+    "category": "floor",
+    "price": 44.99,
+    "currency": "USD",
+    "dimensions": "80x80 cm",
+    "material": "Ceramic",
+    "inStock": true
+  },
+  {
+    "id": "tile_012",
+    "title": "Luxury Onyx Tile",
+    "description": "This premium onyx-inspired tile delivers an extraordinary sense of luxury and sophistication. The elegant veining pattern resembles natural onyx stone while offering superior durability. It is perfect for feature walls, luxury bathrooms, and upscale commercial interiors. The polished finish reflects light beautifully and enhances room brightness. Manufactured with advanced technology for consistent quality and appearance. The tile is resistant to scratches, stains, and moisture. Easy maintenance ensures it remains beautiful over time. Suitable for both walls and floors. The rich design creates a stunning focal point in any space. It complements modern, classic, and contemporary décor styles. Precision-cut edges simplify installation. An excellent choice for high-end interior projects.",
+    "image": "https://picsum.photos/seed/tile012/600/400",
+    "category": "onyx",
+    "price": 89.99,
+    "currency": "USD",
+    "dimensions": "120x120 cm",
+    "material": "Porcelain",
+    "inStock": true
+  },
+  {
+    "id": "tile_013",
+    "title": "Rustic Brick Tile",
+    "description": "This brick-style tile is inspired by traditional exposed brick architecture. The realistic texture and warm color tones create a rustic and inviting appearance. It is ideal for accent walls, cafés, restaurants, and living rooms. The durable ceramic construction ensures reliable long-term performance. Resistant to moisture and daily wear, it maintains its appearance over time. Easy installation makes it suitable for renovation projects. The textured surface adds depth and visual interest to any wall. It pairs beautifully with industrial and vintage décor themes. Maintenance is simple and hassle-free. Suitable for residential and commercial use. The authentic brick look enhances interior character. A timeless decorative solution for creative spaces.",
+    "image": "https://picsum.photos/seed/tile013/600/400",
+    "category": "brick",
+    "price": 38.99,
+    "currency": "USD",
+    "dimensions": "30x60 cm",
+    "material": "Ceramic",
+    "inStock": true
+  },
+  {
+    "id": "tile_014",
+    "title": "Travertine Natural Tile",
+    "description": "This travertine-inspired tile offers the beauty of natural stone with enhanced durability. The soft earth-tone colors create a calming and elegant atmosphere. Suitable for living rooms, bathrooms, and outdoor patios. The textured finish closely resembles genuine travertine stone. Manufactured using premium materials for lasting performance. Resistant to moisture, stains, and fading. Easy maintenance makes it practical for busy households. The natural appearance blends well with modern and traditional interiors. Precision manufacturing ensures consistent texture and color. Suitable for both walls and floors. Its timeless design adds value to any property. A perfect combination of style and functionality.",
+    "image": "https://picsum.photos/seed/tile014/600/400",
+    "category": "stone",
+    "price": 52.49,
+    "currency": "USD",
+    "dimensions": "60x90 cm",
+    "material": "Travertine",
+    "inStock": true
+  },
+  {
+    "id": "tile_015",
+    "title": "Glossy Green Tile",
+    "description": "This glossy green tile introduces freshness and vibrancy into interior spaces. The rich green finish reflects light beautifully and creates a luxurious appearance. Ideal for bathrooms, kitchens, and decorative feature walls. Manufactured from durable ceramic material for reliable performance. Resistant to stains, moisture, and everyday wear. The smooth surface allows quick and easy cleaning. The vibrant color works well with natural wood and neutral décor. Suitable for residential and commercial projects. Precision-cut edges provide a professional installation result. Designed to maintain its beauty over many years. The elegant finish enhances visual appeal instantly. A stylish addition to contemporary interiors.",
+    "image": "https://picsum.photos/seed/tile015/600/400",
+    "category": "ceramic",
+    "price": 48.75,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Ceramic",
+    "inStock": false
+  },
+  {
+    "id": "tile_016",
+    "title": "Patterned Vintage Tile",
+    "description": "This vintage-inspired patterned tile features intricate designs that add character and charm. The decorative surface is perfect for kitchens, bathrooms, and entryways. It combines traditional artistry with modern manufacturing techniques. Durable construction ensures long-lasting performance. The tile resists moisture and daily wear. Easy cleaning helps maintain its vibrant appearance. The detailed patterns create visual interest and uniqueness. Suitable for feature walls and flooring applications. It complements both classic and eclectic interior styles. Precision manufacturing guarantees consistent design quality. The timeless aesthetic remains fashionable year after year. An excellent choice for creative interior projects.",
+    "image": "https://picsum.photos/seed/tile016/600/400",
+    "category": "decorative",
+    "price": 57.99,
+    "currency": "USD",
+    "dimensions": "45x45 cm",
+    "material": "Ceramic",
+    "inStock": true
+  },
+  {
+    "id": "tile_017",
+    "title": "Slate Black Tile",
+    "description": "This slate-inspired black tile provides a sophisticated natural stone appearance. The textured matte finish adds depth and realism to any space. Ideal for contemporary homes, offices, and outdoor areas. The durable construction resists scratches and stains effectively. Moisture-resistant properties make it suitable for bathrooms and kitchens. The dark tone creates a dramatic and elegant atmosphere. Easy maintenance ensures long-lasting beauty. Suitable for walls, floors, and decorative installations. Precision manufacturing delivers consistent texture and color. It pairs well with modern furnishings and lighting. Designed for residential and commercial use. A premium option for stylish interiors.",
+    "image": "https://picsum.photos/seed/tile017/600/400",
+    "category": "slate",
+    "price": 61.99,
+    "currency": "USD",
+    "dimensions": "60x120 cm",
+    "material": "Stone",
+    "inStock": true
+  },
+  {
+    "id": "tile_018",
+    "title": "Textured Wall Tile",
+    "description": "This textured wall tile is designed to create depth and visual interest in modern interiors. The three-dimensional surface catches light beautifully throughout the day. Ideal for feature walls in living rooms, bedrooms, and commercial spaces. Manufactured using durable materials for long-term reliability. Resistant to stains and easy to maintain. The unique texture enhances architectural design elements. Suitable for residential and commercial applications. Precision-cut edges simplify installation and alignment. The contemporary appearance complements minimalist décor styles. The finish remains attractive even after years of use. Adds sophistication and personality to interior spaces. A modern solution for decorative wall applications.",
+    "image": "https://picsum.photos/seed/tile018/600/400",
+    "category": "wall",
+    "price": 46.50,
+    "currency": "USD",
+    "dimensions": "30x90 cm",
+    "material": "Ceramic",
+    "inStock": true
+  },
+  {
+    "id": "tile_019",
+    "title": "Sandstone Outdoor Tile",
+    "description": "This sandstone-look tile captures the natural beauty of sandstone while offering superior durability. The warm earthy tones create a welcoming outdoor environment. Ideal for patios, walkways, and garden areas. The anti-slip surface improves safety in wet conditions. Resistant to weather, UV rays, and moisture. Easy maintenance makes it suitable for busy outdoor spaces. Durable construction ensures long-lasting performance. The natural appearance blends harmoniously with landscaping elements. Suitable for residential and commercial outdoor projects. Precision manufacturing guarantees consistent quality. Designed for beauty and practicality. A reliable flooring choice for outdoor environments.",
+    "image": "https://picsum.photos/seed/tile019/600/400",
+    "category": "outdoor",
+    "price": 58.25,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Sandstone",
+    "inStock": true
+  },
+  {
+    "id": "tile_020",
+    "title": "Premium Gold Marble Tile",
+    "description": "This premium gold marble tile combines elegance, luxury, and durability in a single product. The striking gold veining creates a sophisticated and high-end appearance. Ideal for luxury homes, hotels, and commercial interiors. The polished surface enhances brightness and visual appeal. Manufactured with advanced technology for exceptional quality. Resistant to scratches, moisture, and stains. Easy maintenance ensures lasting beauty over time. Suitable for walls, floors, and decorative features. The timeless marble design remains fashionable for years. Precision-cut edges support seamless installation. Designed to elevate the appearance of any interior space. A prestigious choice for premium projects.",
+    "image": "https://picsum.photos/seed/tile020/600/400",
+    "category": "marble",
+    "price": 95.99,
+    "currency": "USD",
+    "dimensions": "120x120 cm",
+    "material": "Marble",
+    "inStock": true
   }
+
 
 
     ]

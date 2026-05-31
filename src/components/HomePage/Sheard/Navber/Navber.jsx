@@ -44,7 +44,8 @@ const Navber = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn">Login</a>
+
+    <Navlink href={"/login"} ><button className='btn'>Login</button></Navlink>
   </div>
 </div>
     );
